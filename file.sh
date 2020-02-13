@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World"
+touch file {1..4} 
