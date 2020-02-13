@@ -1,2 +1,3 @@
 #!/bin/bash
-touch f1 
+echo "hello world"
+echo "hi this is harish"
